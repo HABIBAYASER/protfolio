@@ -1,5 +1,5 @@
 title: Habiba Yasser 
-logo:صورة البروفايل.jpg
+![My Profile Image](اسم_الصورة.jpg)
 description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
